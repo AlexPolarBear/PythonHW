@@ -22,5 +22,6 @@ def nl(file):
                 click.echo(f"\t{'{:>3s}'.format(str(i))} {line.rstrip()}")
                 i += 1
 
+
 if __name__ == '__main__':
     nl()

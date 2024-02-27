@@ -14,7 +14,8 @@ def wc(file):
     """
     
     if not file or file[0].name == "<stdin>":
-        lines = sys.stdin.readline()
+        while True:
+            line = sys.stdin.readline()
     else:
         total_lines = 0
         total_words = 0

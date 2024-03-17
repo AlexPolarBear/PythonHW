@@ -1,0 +1,7 @@
+setup.py
+alex_tex_generator.egg-info/PKG-INFO
+alex_tex_generator.egg-info/SOURCES.txt
+alex_tex_generator.egg-info/dependency_links.txt
+alex_tex_generator.egg-info/top_level.txt
+tex_gen/__init__.py
+tex_gen/tex_generator.py

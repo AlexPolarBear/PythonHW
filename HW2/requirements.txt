@@ -1,0 +1,3 @@
+alex_tex_generator==1.0
+alexlatexgen==1.0
+twine==5.0.0

@@ -1,0 +1,16 @@
+package:
+  name: "alex_tex_generator"
+  version: "1.0"
+
+source:
+  path: tex_gen
+
+requirements:
+  host:
+    - pip
+    - python
+  build:
+    - python
+    - setuptools
+  run:
+    - python

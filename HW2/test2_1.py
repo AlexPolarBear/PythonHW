@@ -1,4 +1,4 @@
-from generator.tex_generator import TEXdocument, TEXtable, TEXimage
+from tex_gen.tex_generator import TEXdocument, TEXtable, TEXimage
 
 table_data = [
     ["buttermilk", 1.25, "cups"],

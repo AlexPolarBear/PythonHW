@@ -1,4 +1,4 @@
-from tex_generator import TEXdocument
+from alexlatexgen import TEXdocument
 
 table_data = [
     ["buttermilk", 1.25, "cups"],

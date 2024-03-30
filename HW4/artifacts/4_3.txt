@@ -1,0 +1,9 @@
+2024-03-30 18:07:27,234603: User input: Hello
+2024-03-30 18:07:27,237594: Sent message 'Hello' to process A
+2024-03-30 18:07:27,240190: Received message 'hello' from process B
+2024-03-30 18:07:27,241874: Encoded message from process B: uryyb
+2024-03-30 18:07:31,627813: User input: World!
+2024-03-30 18:07:32,238729: Sent message 'World!' to process A
+2024-03-30 18:07:32,239347: Received message 'world!' from process B
+2024-03-30 18:07:32,239908: Encoded message from process B: jbeyq!
+2024-03-30 18:07:37,160316: User input: exit
